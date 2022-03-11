@@ -45,14 +45,6 @@
                 </exclusion>
             </exclusions>
         </dependency>
-<!-- https://mvnrepository.com/artifact/org.asciidoctor.jvm.convert/org.asciidoctor.jvm.convert.gradle.plugin 
-        <dependency>
-            <groupId>org.asciidoctor.jvm.convert</groupId>
-            <artifactId>org.asciidoctor.jvm.convert.gradle.plugin</artifactId>
-            <version>3.3.2</version>
-            <type>pom</type>
-        </dependency>
--->
 </dependencies>
     <build>
         <defaultGoal>process-resources</defaultGoal>

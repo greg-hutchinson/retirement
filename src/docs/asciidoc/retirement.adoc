@@ -1,37 +1,53 @@
 ifndef::imagesdir[:imagesdir: images]
-:revealjs_theme: solarized
+:revealjs_theme: sky
 :revealjs_hash: true
 :tip-caption: 💡
 [transition=slide-in fade-out]
 
-# Trivia
+# Career: May 3, 1982 - June 24, 2022  
 
-## What were the events that led to the invention of the Braille system?
+## First Day of Work
+image::first-day-work.jpg[Greg,350,480]
 
-## Hints
-[%step]
-* The idea came from a person named Charles Barbier
-* Was a friend and officer in Napolean's army
-* His system was called “Night-Writing” 
-* Soldiers were dieing because they would have to turn on lights to read commands in the night
+## Ipsco
+image::3270-terminal.jpeg[dfa,640,480]
 
-## Night Writing Failed
-[%step]
-* His system used a grid of 6x6 dots 
-* Couldn't be read by one finger
-* Too Complex to learn
+## Ipsco 
+image::idms-network.gif[dfa,640,480]
 
-## Louis Braille
-* Was blinded at an early age
-* At 11 years old started enhancing the "Night-Writing"
+## Home Computer
+image::comodore-64.jpeg[dfa,640,480]
 
+## External Storage
+image::old-floppy-5-1-4.jpeg[dfa,640,480]
 
-[.columns]
-## The Braille System
-[.column]
-image::braille.png[Braille,640,480]
-[.column]
-[%step]
-- 6 dot system - 64 combinations
-- Fewer than 10 percent of the people who are legally blind in the United
- States are Braille readers. 
+## External Storage (20Meg)
+image::20MbHardDisk.jpeg[dfa,640,480]
+
+## Working for Accutrak 
+image::8085 emulator.jpeg[dfa,640,480]
+
+## Working for Accutrak
+image::eprom-burner.jpeg[dfa,640,480]
+
+## Working for CDSL 
+image::idms-network.gif[dfa,640,480]
+
+## The Bible 
+image::c-language.png[dfa,640,480]
+
+## A Gui operating System
+image::Windows_3.11_workspace.png[dfa,640,480]
+
+## Minesweeper
+https://minesweeper.online/game
+
+## Real Languages
+image::smalltalk-1.gif[dfa,640,480]
+
+## Smalltalk
+image::smalltalk.jpeg[dfa,640,480]
+
+## Java - 1.3
+image::smalltalk.jpeg[dfa,640,480]
+

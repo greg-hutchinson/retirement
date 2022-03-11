@@ -1,0 +1,13 @@
+20MbHardDisk.jpeg
+3270-terminal.jpeg
+8085 emulator.jpeg
+Windows_3.11_workspace.png
+c-language.png
+comodore-64.jpeg
+eprom-burner.jpeg
+first-day-work.jpg
+idms-network.gif
+list.txt
+old-floppy-5-1-4.jpeg
+smalltalk-1.gif
+smalltalk.jpeg
