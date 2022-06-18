@@ -4,49 +4,68 @@ ifndef::imagesdir[:imagesdir: images]
 :tip-caption: 💡
 [transition=slide-in fade-out]
 
-# Career: May 3, 1982 - June 24, 2022  
+# Working Career: May 3, 1982 - June 24, 2022  
+Fcc Career Dec 3,2003 - June 24, 2022 - 18.55 years
 
+## So What was going on in 1982?
+
+[%step]
+* A 14-minute long horror-themed Music Video was released 
+* Thriller
+* Average yearly income 
+* $21,050.00
+* Cost of a liter of gas
+* $0.23
+
+## So What was going on in 1982?
+
+[%step]
+* MS Dos had been out for 6 months 
+* IBM Compatable computers were the rage
+* Berlin Wall Came down the next year
+* I graduated and hit the work force
+
+[%notitle]
 ## First Day of Work
-image::first-day-work.jpg[Greg,350,480]
+image::first-day-work.jpg[background,size=40%]
 
-## Ipsco
+## My TERMINAL at Work
 image::3270-terminal.jpeg[dfa,640,480]
 
-## Ipsco 
-image::idms-network.gif[dfa,640,480]
-
-## Home Computer
+## My First Home Computer
 image::comodore-64.jpeg[dfa,640,480]
 
 ## External Storage
 image::old-floppy-5-1-4.jpeg[dfa,640,480]
 
+## Then my Second Home Computer
+image::IBM-pc.png[pc,640,480]
+
 ## External Storage (20Meg)
 image::20MbHardDisk.jpeg[dfa,640,480]
 
-## Working for Accutrak 
-image::8085 emulator.jpeg[dfa,640,480]
+## Other important events during those times.
 
-## Working for Accutrak
-image::eprom-burner.jpeg[dfa,640,480]
+## Gui Operating System
+image::Windows_3.11_workspace.png[dfa,640,480]
 
-## Working for CDSL 
-image::idms-network.gif[dfa,640,480]
+## Alex & Steph
+image::alex-steph.jpg[a-and-s,640,480]
+
+## The first 11 years
+* Ipsco
+* CDSL
+* ACCUTRAK
+* CDSL - Now CGI
+
+## What was going on in 1993
+
 
 ## The Bible 
 image::c-language.png[dfa,640,480]
 
-## A Gui operating System
-image::Windows_3.11_workspace.png[dfa,640,480]
-
-## Minesweeper
-https://minesweeper.online/game
-
 ## Real Languages
 image::smalltalk-1.gif[dfa,640,480]
-
-## Smalltalk
-image::smalltalk.jpeg[dfa,640,480]
 
 ## Java - 1.3
 image::smalltalk.jpeg[dfa,640,480]
