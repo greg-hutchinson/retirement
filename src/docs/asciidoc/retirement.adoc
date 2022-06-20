@@ -5,16 +5,16 @@ ifndef::imagesdir[:imagesdir: images]
 [transition=slide-in fade-out]
 
 # Working Career: May 3, 1982 - June 24, 2022  
-Fcc Career Dec 3,2003 - June 24, 2022 - 18.55 years
+FCC Career Dec 3,2003 - June 24, 2022 - 18.55 years
 
-## So What was going on in 1982?
+## So What was going on in 1982? 
 
 [%step]
-* A 14-minute long horror-themed Music Video was released 
+* A 14-minute long horror-themed Music Video was released? 
 * Thriller
-* Average yearly income 
+* Average yearly income? 
 * $21,050.00
-* Cost of a liter of gas
+* Cost of a liter of gas?
 * $0.23
 
 ## So What was going on in 1982?
@@ -22,8 +22,7 @@ Fcc Career Dec 3,2003 - June 24, 2022 - 18.55 years
 [%step]
 * MS Dos had been out for 6 months 
 * IBM Compatable computers were the rage
-* Berlin Wall Came down the next year
-* I graduated and hit the work force
+* I graduated and hit the work force ($1785 / month)
 
 [%notitle]
 ## First Day of Work
@@ -38,10 +37,11 @@ image::comodore-64.jpeg[dfa,640,480]
 ## External Storage
 image::old-floppy-5-1-4.jpeg[dfa,640,480]
 
-## Then my Second Home Computer
+## Second Home Computer
 image::IBM-pc.png[pc,640,480]
 
-## External Storage (20Meg)
+## External Storage 
+(20Meg)
 image::20MbHardDisk.jpeg[dfa,640,480]
 
 ## Other important events during those times.
@@ -53,12 +53,23 @@ image::Windows_3.11_workspace.png[dfa,640,480]
 image::alex-steph.jpg[a-and-s,640,480]
 
 ## The first 11 years
-* Ipsco
+* IPSCO
 * CDSL
 * ACCUTRAK
 * CDSL - Now CGI
 
 ## What was going on in 1993
+[%step]
+* The Pentium microprocessor introduced by Intel.
+* Windows NT 3.1 released by Microsoft
+* The World Wide Web was born at CERN
+
+
+## Movies in 1993
+[%step]
+* Jurassic Park 
+* Schindlers List
+* Indecent Proposal
 
 
 ## The Bible 
