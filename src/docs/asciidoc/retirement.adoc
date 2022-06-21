@@ -7,22 +7,32 @@ ifndef::imagesdir[:imagesdir: images]
 # Working Career: May 3, 1982 - June 24, 2022  
 FCC Career Dec 3,2003 - June 24, 2022 - 18.55 years
 
+
+## The First 10 years 
+
+(1982 - 1992)
+
 ## So What was going on in 1982? 
 
 [%step]
 * A 14-minute long horror-themed Music Video was released? 
-* Thriller
 * Average yearly income? 
-* $21,050.00
 * Cost of a liter of gas?
-* $0.23
+
+[.notes]
+****
+* Thriller
+* 21,050 / year
+* and 0.21 / liter 
+****
+
 
 ## So What was going on in 1982?
 
 [%step]
 * MS Dos had been out for 6 months 
 * IBM Compatable computers were the rage
-* I graduated and hit the work force ($1785 / month)
+* I graduated and hit the work force making ???
 
 [%notitle]
 ## First Day of Work
@@ -41,43 +51,75 @@ image::old-floppy-5-1-4.jpeg[dfa,640,480]
 image::IBM-pc.png[pc,640,480]
 
 ## External Storage 
-(20Meg)
+(20Meg) 
+
 image::20MbHardDisk.jpeg[dfa,640,480]
+
+
+
+## Jobs
+* IPSCO (ADSO Programmer)
+* CDSL (C Programmer)
+** Making Windows with a text screen 
+* ACCUTRAK (8085 Assembler programmer)
+* Duke Power (Smalltalk Consultant)
 
 ## Other important events during those times.
 
-## Gui Operating System
-image::Windows_3.11_workspace.png[dfa,640,480]
+1988 & 1992
+
 
 ## Alex & Steph
 image::alex-steph.jpg[a-and-s,640,640]
 
-## The first 11 years
-* IPSCO
-* CDSL
-* ACCUTRAK
-* CDSL - Now CGI
+## 7 Years in Tibet (Zurich Actually)
+image::zurich.jpeg[Zurich,640,640]
+
 
 ## What was going on in 1993
-[%step]
-* The Pentium microprocessor introduced by Intel.
-* Windows NT 3.1 released by Microsoft
 * The World Wide Web was born at CERN
-
+* The first webcam connected to the internet
+* Doom was released
 
 ## Movies in 1993
-[%step]
-* Jurassic Park 
 * Schindlers List
 * Indecent Proposal
+* Movie about Dinosaurs ? 
+
+## Windows 3.1 Released
+image::Windows_3.11_workspace.png[dfa,640,480]
+
+## Jobs - Smalltalk Consultant
+* Schweizerische kreditanstalt 
+** Thankfully renamed to Credit Suisse
+* UBS (Union Bank of Switzerland)
+
+[.notes]
+****
+Alex went to an international school
+
+Steph went to the Swiss school system
+
+Travelled a good portion of western Europe
+
+Made lots of friends 
+****
+
+## 2000 - 2003
+Consulting jobs with:
+
+* GEICO
+* Canada Life
+* Sasktel Mobility
+
+## 2003 - 2022 (FCC)
 
 
-## The Bible 
-image::c-language.png[dfa,640,480]
+https://drive.google.com/file/d/1v0iRB0ifI3n29GhdiYWBetFYA64ydNWo/view?usp=sharing[I think this sums it up nicely]
 
-## Real Languages
-image::smalltalk-1.gif[dfa,640,480]
 
-## Java - 1.3
-image::smalltalk.jpeg[dfa,640,480]
+
+
+
+
 
