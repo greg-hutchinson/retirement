@@ -50,7 +50,7 @@ image::20MbHardDisk.jpeg[dfa,640,480]
 image::Windows_3.11_workspace.png[dfa,640,480]
 
 ## Alex & Steph
-image::alex-steph.jpg[a-and-s,640,480]
+image::alex-steph.jpg[a-and-s,640,640]
 
 ## The first 11 years
 * IPSCO
