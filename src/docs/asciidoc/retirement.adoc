@@ -15,24 +15,24 @@ FCC Career Dec 3,2003 - June 24, 2022 - 18.55 years
 ## So What was going on in 1982? 
 
 [%step]
-* A 14-minute long horror-themed Music Video was released? 
-* Average yearly income? 
-* Cost of a liter of gas?
+* A 14-minute long horror-themed Music Video was released
+* Kid befriends Alien (Movie) 
+* And a liter of gas cost ???
 
 [.notes]
 ****
 * Thriller
-* 21,050 / year
+* ET
 * and 0.21 / liter 
 ****
 
 
-## So What was going on in 1982?
+## What else was going on in 1982?
 
 [%step]
 * MS Dos had been out for 6 months 
-* IBM Compatable computers were the rage
-* I graduated and hit the work force making ???
+* IBM Compatible computers were the rage
+* I graduated and hit the work force making ??? / Month
 
 [%notitle]
 ## First Day of Work
@@ -50,8 +50,7 @@ image::old-floppy-5-1-4.jpeg[dfa,640,480]
 ## Second Home Computer
 image::IBM-pc.png[pc,640,480]
 
-## External Storage 
-(20Meg) 
+## External Storage
 
 image::20MbHardDisk.jpeg[dfa,640,480]
 
@@ -90,8 +89,9 @@ image::zurich.jpeg[Zurich,640,640]
 image::Windows_3.11_workspace.png[dfa,640,480]
 
 ## Jobs - Smalltalk Consultant
+[%step]
 * Schweizerische kreditanstalt 
-** Thankfully renamed to Credit Suisse
+* Thankfully renamed to Credit Suisse
 * UBS (Union Bank of Switzerland)
 
 [.notes]
@@ -114,10 +114,46 @@ Consulting jobs with:
 
 ## 2003 - 2022 (FCC)
 
+## What was happening in 2003?
+
+## Other things at FCC
 
 https://drive.google.com/file/d/14RRNaphR8zrGBOaptH5e2g3AC_N1P0nk/view?usp=sharing[I think this sums it up nicely]
 
+## What's next ???
 
+[%notitle]
+## Hiking in Macedonia
+image::macedonia.jfif[a-and-s,750,640]
+
+
+[%notitle]
+## How I imagine I Wind Surf
+image::fast-wind-surfer.jpg[a-and-s,750,640]
+
+[%notitle]
+## How I Really Wind Surf
+image::greg-wind-surfing.jpg[a-and-s,750,640]
+
+## And then ...
+
+[%notitle]
+## Spend some time with
+image::liv-beetle.jpg[def, 750,640]
+
+[%notitle]
+## Spend some time with
+image::liv-and-joker.jpg[abc, 750,640]
+
+[%notitle]
+## And of course her news ...
+image::liv-santa-sister.jpg[liv, 750,640]
+
+## And Lastly ...
+
+[%notitle]
+## Thanks
+image::thanks.jpg[ddd,750,640]
 
 
 
