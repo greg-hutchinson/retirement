@@ -26,7 +26,6 @@ FCC Career Dec 3,2003 - June 24, 2022 - 18.55 years
 * and 0.21 / liter 
 ****
 
-
 ## What else was going on in 1982?
 
 [%step]
@@ -35,44 +34,83 @@ FCC Career Dec 3,2003 - June 24, 2022 - 18.55 years
 * I graduated and hit the work force making ??? / Month
 
 [%notitle]
+## Jobs
+image::ipsco.png[a-and-s,640,640]
+
+[%notitle]
 ## First Day of Work
 image::first-day-work.jpg[background,size=40%]
 
 ## My TERMINAL at Work
 image::3270-terminal.jpeg[dfa,640,480]
 
-## My First Home Computer
-image::comodore-64.jpeg[dfa,640,480]
+[.notes]
+****
+* IDMS Programmer (4th GL)
+* 2 buddies started the same day and the dept was 8
+* 
+****
 
-## External Storage
-image::old-floppy-5-1-4.jpeg[dfa,640,480]
+## Accutrak
+image::eprom-burner.jpeg[a-and-s,640,480]
 
-## Second Home Computer
-image::IBM-pc.png[pc,640,480]
+[.notes]
+****
+* 8085 Assembler 
+* Driverless Tractor
+* GPS wasn't accurate enough
+* Company was 3 employees at the time
+* Didn't know it was called a start-up
+****
 
-## External Storage
+## CDSL
+image::smalltalk-1.gif[a-and-s,640,500]
+[.notes]
+****
+* Did C programming here as well 
+* Windowing system without windows (Char based)
+* Large project with IBM Australia
+* Made that trip 5-6 times over 18 months
+* Smalltalk was a real language
+****
 
-image::20MbHardDisk.jpeg[dfa,640,480]
+## What do all these 3 have in common?
+[%step]
+* They no longer exist
+* I have always wondered what they all did wrong?
 
+[%notitle]
+## Duke Power
+image::duke-power.png[a-and-s,640,640]
 
+[.notes]
+****
+* One week a month on-site in Raleigh N. Carolina 
+* First time I had ever heard of Goo as a description for container contents
+* 14 Min start time. Client server. 
+****
 
-## Jobs
-* IPSCO (ADSO Programmer)
-* CDSL (C Programmer)
-** Making Windows with a text screen 
-* ACCUTRAK (8085 Assembler programmer)
-* Duke Power (Smalltalk Consultant)
 
 ## Other important events during those times.
 
 1988 & 1992
 
-
 ## Alex & Steph
 image::alex-steph.jpg[a-and-s,640,640]
 
-## 7 Years in Tibet (Zurich Actually)
-image::zurich.jpeg[Zurich,640,640]
+[.notes]
+****
+* Alex - teacher and recently finished her Masters in Indigenous Education
+* Steph - is an X-ray tech currently on mat leave 
+****
+
+
+## 1993 - 2000
+
+[%notitle]
+## 7 Years in Zurich
+
+image::grossmunster.jpg[Zurich,640,640]
 
 
 ## What was going on in 1993
@@ -88,7 +126,7 @@ image::zurich.jpeg[Zurich,640,640]
 ## Windows 3.1 Released
 image::Windows_3.11_workspace.png[dfa,640,480]
 
-## Jobs - Smalltalk Consultant
+## Smalltalk Consultant
 [%step]
 * Schweizerische kreditanstalt 
 * Thankfully renamed to Credit Suisse
@@ -96,6 +134,8 @@ image::Windows_3.11_workspace.png[dfa,640,480]
 
 [.notes]
 ****
+Swiss Chocolate
+
 Alex went to an international school
 
 Steph went to the Swiss school system
@@ -108,15 +148,24 @@ Made lots of friends
 ## 2000 - 2003
 Consulting jobs with:
 
-* GEICO
-* Canada Life
+* GEICO (Chevy Chase, MD)
+* Manulife
 * Sasktel Mobility
 
-## 2003 - 2022 (FCC)
+## 2004 - 2022 (FCC)
 
-## What was happening in 2003?
+## What was happening in 2004?
+* Facebook is launched (only to Harvard)
+* Firefox rises and gives IE serious competition 
+* One megapixel cameras are available
+* Blog crowned word of the year
 
-## Other things at FCC
+## What was happening in 2004?
+* Largest Earthquake in 40 years (9.3)
+* Who won the world series Dusty?
+
+
+## What was happening at FCC?
 
 https://drive.google.com/file/d/14RRNaphR8zrGBOaptH5e2g3AC_N1P0nk/view?usp=sharing[I think this sums it up nicely]
 
