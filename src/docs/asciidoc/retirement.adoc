@@ -77,7 +77,7 @@ image::smalltalk-1.gif[a-and-s,640,500]
 ## What do all these 3 have in common?
 [%step]
 * They no longer exist
-* I have always wondered what they all did wrong?
+* I always wondered what common failure they all had made?
 
 [%notitle]
 ## Duke Power
