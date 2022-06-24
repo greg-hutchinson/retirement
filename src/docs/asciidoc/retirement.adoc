@@ -7,6 +7,18 @@ ifndef::imagesdir[:imagesdir: images]
 # Working Career: May 3, 1982 - June 24, 2022  
 FCC Career Dec 3,2003 - June 24, 2022 - 18.55 years
 
+## Before I begin
+Some Trivia
+[%step]
+- How many weeks are there in a year?
+- How many cards are there in a deck?
+
+[.notes]
+****
+Travis, Brey, Jason
+Liz, Brooke
+Linsey
+****
 
 ## The First 10 years 
 
@@ -77,7 +89,7 @@ image::smalltalk-1.gif[a-and-s,640,500]
 ## What do all these 3 have in common?
 [%step]
 * They no longer exist
-* I always wondered what common failure they all had made?
+* I have always wondered what they all did wrong?
 
 [%notitle]
 ## Duke Power
@@ -114,7 +126,8 @@ image::grossmunster.jpg[Zurich,640,640]
 
 
 ## What was going on in 1993
-* The World Wide Web was born at CERN
+[%step]
+* The World Wide Web was born at CERN 
 * The first webcam connected to the internet
 * Doom was released
 
@@ -133,6 +146,7 @@ image::Windows_3.11_workspace.png[dfa,640,480]
 * UBS (Union Bank of Switzerland)
 
 [.notes]
+
 ****
 Swiss Chocolate
 
@@ -146,7 +160,7 @@ Made lots of friends
 ****
 
 ## 2000 - 2003
-Consulting jobs with:
+[%step]
 
 * GEICO (Chevy Chase, MD)
 * Manulife
@@ -155,34 +169,62 @@ Consulting jobs with:
 ## 2004 - 2022 (FCC)
 
 ## What was happening in 2004?
+[%step]
 * Facebook is launched (only to Harvard)
 * Firefox rises and gives IE serious competition 
 * One megapixel cameras are available
 * Blog crowned word of the year
 
 ## What was happening in 2004?
-* Largest Earthquake in 40 years (9.3)
-* Who won the world series?
-
+[%step]
+* Largest gitEarthquake in 40 years (9.3)
+* Who won the world series after 86 years?
 
 ## What was happening at FCC?
+[%step]
+* Loan Renewal Program
+* Switched from starteam to SVN
+* Switched from Java Server Faces to ULC *
 
-https://drive.google.com/file/d/14RRNaphR8zrGBOaptH5e2g3AC_N1P0nk/view?usp=sharing[I think this sums it up nicely]
+[.notes]
+****
+* Lots of late nights 
+* All these changes in the middle of the project
+* This was a major change with only 4 months left
+****
+
+## What was happening at FCC?
+[%step]
+* The Big Kahuna (BK)
+* Tight deadlines
+* Switched from SVN to Mercurial
+* Liz and Tanya start to organize a Coup
+
+[.notes]
+****
+* Lots of work, stress
+****
+
+
+## Highlights over those years
+
+https://drive.google.com/file/d/14XgwbdSDz5jywFEfmyVs2lfNgaogMlSZ/view?usp=sharing[I think this sums it up nicely]
+
 
 ## What's next ???
 
 [%notitle]
-## Hiking in Macedonia
-image::macedonia.jfif[a-and-s,750,640]
-
-
-[%notitle]
-## How I imagine I Wind Surf
+## Enjoy the summer
 image::fast-wind-surfer.jpg[a-and-s,750,640]
 
 [%notitle]
 ## How I Really Wind Surf
 image::greg-wind-surfing.jpg[a-and-s,750,640]
+
+[%notitle]
+## Hiking in Macedonia
+image::macedonia.jfif[a-and-s,750,640]
+
 
 ## And then ...
 
@@ -203,8 +245,3 @@ image::liv-santa-sister.jpg[liv, 750,640]
 [%notitle]
 ## Thanks
 image::thanks.jpg[ddd,750,640]
-
-
-
-
-
